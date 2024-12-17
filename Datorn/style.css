@@ -88,7 +88,7 @@ font-size: large;
 main{
 grid-area: m;
 background-color: rgb(208, 235, 220);
-img{width: 960px;
+img{width: 700px; 
     
 }
 margin: 8px;
